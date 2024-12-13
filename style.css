@@ -8,8 +8,8 @@ body {
   
 .block {
     position: relative;
-    margin: 300px auto 0;
-    width: 500px;
+    margin: 800px auto 0;
+    width: 800px;
     height: 250px;
     background: linear-gradient(0deg, #000, #272727);
     color: white;

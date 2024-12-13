@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -a (tous les fichiers en attente) -m (message) "modif/ajout/…" (message)
+
+Git remote une url 
+Git branch -M main 
+Git push origin 
