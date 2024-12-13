@@ -43,7 +43,7 @@ body {
 }
   
 .block:after {
-    filter: blur(50px);
+    filter: blur(5px);
 }
   
   
