@@ -29,6 +29,11 @@ body {
     z-index: -1;
     animation: steam 20s linear infinite;
 }
+
+.bouleone {
+  /* position: relative; */
+  transform: translate(35%,35%);
+}
   
 @keyframes steam {
     0% {
